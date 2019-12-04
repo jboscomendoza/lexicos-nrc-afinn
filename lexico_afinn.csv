@@ -1,4 +1,4 @@
-Palabra,Puntuacion,Word
+palabra,puntuacion,word
 a bordo,1,aboard
 abandona,-2,abandons
 abandonado,-2,abandoned
@@ -436,7 +436,7 @@ cargas,-2,burdens
 cargos,-2,charges
 cariño,2,fondness
 cariñoso,3,affectionate
-caro,3,dearly
+querido,3,dearly
 Caso omiso,-2,disregarding
 castiga,-3,chastises
 castiga,-2,punishes
@@ -1729,7 +1729,7 @@ motivar,1,motivate
 muere de hambre,-2,starves
 muerte,-2,death
 muerto,-3,dead
-multa,2,fine
+bien,2,fine
 muriendo de hambre,-2,starving
 murió,-3,died
 musaraña,-4,shrew
@@ -1748,7 +1748,7 @@ negligencia,-2,neglect
 negligencias,-2,neglects
 negociar,2,bargain
 negrita,2,bold
-negro,-5,nigger
+nigger,-5,nigger
 nervios,-1,nerves
 nerviosamente,-2,nervously
 nervioso,-2,fidgety

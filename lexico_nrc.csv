@@ -262,8 +262,8 @@ aconsejable,confianza,advisable
 asesorar,positivo,advise
 asesorar,confianza,advise
 aconsejado,confianza,advised
-asesor,positivo,adviser
-asesor,confianza,adviser
+consejero,positivo,adviser
+consejero,confianza,adviser
 Abogacía,enfado,advocacy
 Abogacía,anticipación,advocacy
 Abogacía,alegría,advocacy
@@ -2129,7 +2129,7 @@ payaso,alegría,clown
 payaso,positivo,clown
 payaso,sorpresa,clown
 pista,anticipación,clue
-grupo,negativo,clump
+bulto,negativo,clump
 torpe,asco,clumsy
 torpe,negativo,clumsy
 entrenador,confianza,coach
@@ -9479,8 +9479,8 @@ venenoso,asco,poisonous
 venenoso,miedo,poisonous
 venenoso,negativo,poisonous
 venenoso,tristeza,poisonous
-meter,anticipación,poke
-meter,negativo,poke
+picar,anticipación,poke
+picar,negativo,poke
 polaridad,sorpresa,polarity
 polémica,enfado,polemic
 polémica,asco,polemic
@@ -10366,7 +10366,7 @@ retirar,tristeza,remove
 Renacimiento,positivo,renaissance
 encuentro casual,negativo,rencontre
 desgarrar,negativo,rend
-hacer,positivo,render
+crear,positivo,render
 renegado,enfado,renegade
 renegado,negativo,renegade
 renovación,positivo,renewal
@@ -11819,7 +11819,7 @@ declaración,confianza,statement
 estacionario,negativo,stationary
 estadístico,confianza,statistical
 estatua,positivo,statue
-estado,positivo,status
+estatus,positivo,status
 firme,positivo,staunch
 duela,negativo,stave
 firme,positivo,steadfast
@@ -12278,7 +12278,7 @@ táctica,miedo,tactics
 táctica,confianza,tactics
 mancha,negativo,taint
 mancha,tristeza,taint
-cuento,positivo,tale
+relato,positivo,tale
 talento,positivo,talent
 talismán,positivo,talisman
 hablar,positivo,talk
@@ -12359,7 +12359,7 @@ oferta,positivo,tender
 oferta,confianza,tender
 sensibilidad,alegría,tenderness
 sensibilidad,positivo,tenderness
-vivienda,negativo,tenement
+casucha,negativo,tenement
 tensión,enfado,tension
 terminal,miedo,terminal
 terminal,negativo,terminal
