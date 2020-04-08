@@ -299,9 +299,9 @@ animosidad,-2,animosity
 ansia,-1,longing
 ansiedad,-2,anxiety
 ansiosa,-2,anxious
-ansiosa,2,eager
+entusiasmada,2,eager
 ansioso,-2,anxious
-ansioso,2,eager
+entusiasmado,2,eager
 antagonista,-2,antagonistic
 anti,-1,anti
 anticipación,1,anticipation
@@ -573,8 +573,11 @@ brillo,1,brightness
 broma,2,joke
 bruta,-2,gross
 bruto,-2,gross
+buen,3,good
 buena,3,good
 bueno,3,good
+buenas,3,good
+buenos,3,good
 buque insignia,2,flagship
 bureada,-2,tricked
 bureado,-2,tricked
@@ -806,6 +809,8 @@ confusa,-2,confused
 confusa,-2,confusing
 confuso,-2,confused
 confuso,-2,confusing
+confundida,-2,confused
+confundido,-2,confusing
 conmocionada,-2,shocked
 conmocionado,-2,shocked
 consentimienta,2,consent
@@ -2743,6 +2748,8 @@ preparada,1,prepared
 preparado,1,prepared
 presar,-2,deject
 presión,-1,pressure
+presionada,-2,pressured
+presionado,-2,pressured
 presionadas,-2,pressured
 presionados,-2,pressured
 prestigia,3,kudos
@@ -3067,8 +3074,8 @@ seguro de sí mismo,2,self-confident
 sensación,1,feeling
 sensible,2,responsive
 sentencia,-2,sentencing
-sentida,3,heartfelt
-sentido,3,heartfelt
+cordial,3,heartfelt
+cordial,3,heartfelt
 separada,-1,detached
 separado,-1,detached
 serena,2,serene
